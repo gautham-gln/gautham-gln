@@ -25,7 +25,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 👤 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&style=flat&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=gautham-gln&style=flat&color=blue)
 
 ## 🎯 Currently Learning
 
