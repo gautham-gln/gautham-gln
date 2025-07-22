@@ -40,7 +40,7 @@
 ## GitHub Stats
 
 ![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautham-gln&show_icons=true&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gautham-gln&theme=onedark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gautham-gln&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-gln&layout=compact&theme=tokyonight)
 
 
