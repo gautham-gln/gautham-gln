@@ -41,7 +41,7 @@
 
 ![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautham-gln&show_icons=true&theme=github_dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gautham-gln&theme=onedark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-gln&layout=compact&theme=vue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-gln&layout=compact&theme=tokyonight)
 
 
 ## Contact Me
